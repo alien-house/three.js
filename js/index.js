@@ -1,3 +1,4 @@
+// https://ics.media/entry/14771/2
 var init = function() {
 	// レンダラーを作成
 	var renderer = new THREE.WebGLRenderer();
